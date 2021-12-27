@@ -3,7 +3,7 @@ import { Product } from './../../models/product';
 import { CartService } from './../../services/cart.service';
 import { CartItems } from './../../models/cartItems';
 import { Component, OnInit } from '@angular/core';
-import { CartItem } from 'src/app/models/caerItem';
+import { CartItem } from 'src/app/models/cartItem';
 
 @Component({
   selector: 'app-cart-summary',

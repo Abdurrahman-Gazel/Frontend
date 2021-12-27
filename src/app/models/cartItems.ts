@@ -1,3 +1,3 @@
-import { CartItem } from "./caerItem";
+import { CartItem } from "./cartItem";
 
 export const CartItems:CartItem[]=[];

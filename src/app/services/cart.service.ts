@@ -1,4 +1,4 @@
-import { CartItem } from './../models/caerItem';
+import { CartItem } from '../models/cartItem';
 import { CartItems } from './../models/cartItems';
 import { Product } from './../models/product';
 import { Injectable } from '@angular/core';
